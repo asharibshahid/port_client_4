@@ -348,7 +348,7 @@ out with designs that captivate, convert, and inspire.
             className="space-y-12"
           >
             <h2 className="text-5xl font-bold text-center bg-gradient-to-r from-pink-400 to-red-400 bg-clip-text text-transparent">
-              Let's Create Together
+              Lets Create Together
             </h2>
             <div className="max-w-2xl mx-auto">
               <div className="space-y-6">
